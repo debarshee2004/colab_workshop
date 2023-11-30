@@ -21,7 +21,7 @@ To get started with the COLAB Workshop repository, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/debarshee2004/colab_Workshop.git
+   git clone https://github.com/debarshee2004/colab_workshop.git
    ```
 
 2. **Explore the Projects:** Navigate through the repository to explore various machine learning projects and solutions. You'll find each project in its own directory, each with its own README and code.
